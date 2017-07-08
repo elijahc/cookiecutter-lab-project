@@ -1,0 +1,11 @@
+#+TITLE: {{cookiecutter.project_name}} project
+#+OPTIONS: ^:{} \n:t todo:nil
+/Contains project background notes and research/
+
+*Created:* {{cookiecutter.created_on}}
+* Purpose
+{{cookiecutter.description}}
+
+* Important papers
+* Analysis notes
+* Research notes

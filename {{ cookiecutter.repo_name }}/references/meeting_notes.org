@@ -1,0 +1,5 @@
+#+TITLE: {{ cookiecutter.project_name}} project
+#+OPTIONS: ^:{} \n:t todo:nil
+
+*Created*: {{cookiecutter.created_on}}
+* meetings
