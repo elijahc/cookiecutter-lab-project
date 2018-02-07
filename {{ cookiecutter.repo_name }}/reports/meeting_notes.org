@@ -1,0 +1,7 @@
+#+TITLE: {{ cookiecutter.project_name}} project
+#+OPTIONS: toc:nil author:nil title:nil date:nil num:nil ^:{} \n:1 todo:nil
+#+PROPERTY: header-args :exports both :eval no
+#+LATEX_HEADER: \usepackage[margin=1.0in]{geometry}
+
+*Created*: {{cookiecutter.created_on}}
+* meetings
