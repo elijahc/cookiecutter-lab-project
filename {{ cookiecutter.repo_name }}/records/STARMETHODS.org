@@ -1,0 +1,71 @@
+#+TITLE: STAR Methods
+#+DATE: 2018-02-07
+#+OPTIONS: toc:nil author:nil title:nil date:nil num:nil ^:{} \n:1 todo:nil
+#+PROPERTY: header-args :eval never-export
+#+LATEX_HEADER: \usepackage[margin=1.0in]{geometry}
+#+LATEX_HEADER: \hypersetup{colorlinks=true,citecolor=black,linkcolor=black,urlcolor=blue,linkbordercolor=blue,pdfborderstyle={/S/U/W 1}}
+#+LATEX_HEADER: \usepackage[round]{natbib}
+#+LATEX_HEADER: \renewcommand{\bibsection}
+
+Based on Cell's /Structured, Transparent, Accessible reporting/ model. 
+
+See http://www.cell.com/pb-assets/journals/research/cell/methods/Methods%20Guide_general.pdf for more details 
+
+* Contact for reagents and resources sharing
+
+
+* Experimental model and subject details
+*IMPORTANT*  Refer to website for details, use [[https://www.nc3rs.org.uk/sites/default/files/documents/Guidelines/NC3Rs%2520ARRIVE%2520Guidelines%2520Checklist%2520%2528fillable%2529.pdf][ARRIVE]] guidelines
+
+* Method Details
+  /subheading for each experiment/
+
+* Quantification and statistical analysis
+
+
+* Data and software availability
+
+*link to OSF page*
+
+* Additional resources
+
+*link to OSF page*
+
+* Key resouces table
+
+** Reagents
+
+| Reagent or resource | source | identifier (Cat#,RRID) |
+|--------------------+--------+------------------------|
+|                    |        |                        |
+
+** Common assays
+
+| assay | source | identifier (Cat#,RRID) |
+|-------+--------+------------------------|
+|       |        |                        |
+
+** Deposited data and custom software
+
+| Data | source | DOI and/or URL |
+|------+--------+----------------|
+|      |        |                |
+
+** Experimental organisms
+
+| Organism or strain | source | identifier (Cat#,RRID) |
+|--------------------+--------+------------------------|
+|                    |        |                        |
+
+** Other software and packages
+
+| software or library | source | identifier (URL, DOI,RRID) |
+|---------------------+--------+----------------------------|
+|                     |        |                            |
+
+
+* References
+  bibliographystyle:apalike
+  bibliography:~/Dropbox/bibliography/library.bib
+
+
