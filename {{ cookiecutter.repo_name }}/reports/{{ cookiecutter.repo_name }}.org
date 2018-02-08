@@ -11,11 +11,13 @@
 
 * {{cookiecutter.project_name}} description
 
-{{cookiecutter.
+{{cookiecutter.description}}
+
 
 
 
 * References
+
   bibliographystyle:apalike
   bibliography:~/Dropbox/bibliography/library.bib
 
