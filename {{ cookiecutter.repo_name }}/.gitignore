@@ -69,5 +69,13 @@ target/
 # Jupyter NB Checkpoints
 .ipynb_checkpoints/
 
-# exclude data from source control by default
-/data/
+
+# ds store mac 
+.DS_Store
+
+# images
+
+*.jpg
+*.jpeg
+*.png
+*.pdf
