@@ -29,6 +29,6 @@ Project/
     └── {{cookiecutter.created_on}}
 
 15 directories, 5 files
-
+```
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>.<a> href="https://github.com/nkicg6/cookiecutter-lab-project"</a>#cookiecutterdatascience</small></p>
