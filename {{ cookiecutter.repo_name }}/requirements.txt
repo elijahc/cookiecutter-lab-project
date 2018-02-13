@@ -1,6 +1,9 @@
-jupyter
+# Data science
 numpy
+scipy
 pandas
+
+# Viz
 matplotlib
 seaborn
-scipy
+jupyter
